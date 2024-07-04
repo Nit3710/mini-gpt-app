@@ -1,0 +1,9 @@
+#dependency
+node_modules/
+
+#misc
+client/.env
+.env
+
+#production
+client/build/
